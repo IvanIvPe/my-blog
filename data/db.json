@@ -1,7 +1,76 @@
 {
-    "blogs": [
-        { "id": 1, "title": "My new website", "body": "lorem ipsum...", "author": "Mario" },
-        { "id": 2, "title": "Welcome party!", "body": "lorem ipsum...", "author": "Luigi" },
-        { "id": 3, "title": "Web dev top tips", "body": "lorem ipsum...", "author": "Yoshi" }
-    ]
+  "blogs": [
+    {
+      "id": "1",
+      "title": "My New Website",
+      "body": "I finally pushed the first version of my website live today. It’s simple, but it feels great to see something I built from scratch out in the world. Next up: adding animations and maybe a small blog section.",
+      "author": "Mario"
+    },
+    {
+      "id": "2",
+      "title": "Welcome Party!",
+      "body": "Last night’s welcome party was a blast—music playing, food everywhere, and a whole lot of laughter. Even the shy ones joined in by the end. Definitely a night to remember!",
+      "author": "Luigi"
+    },
+    {
+      "id": "3",
+      "title": "Web Dev Top Tips",
+      "body": "Start with the fundamentals, experiment with small projects, and don’t fear debugging. Half of web development is just figuring out why something isn’t working and making it better.",
+      "author": "Yoshi"
+    },
+    {
+      "id": "4",
+      "title": "Morning Coffee Thoughts",
+      "body": "There’s something powerful about that first sip of coffee. It’s like hitting a reset button for the mind. Today’s plan: tackle tasks slowly but steadily, one sip at a time.",
+      "author": "Peach"
+    },
+    {
+      "id": "5",
+      "title": "My Favorite Tools",
+      "body": "I’ve been experimenting with new productivity tools lately. Some work wonders, some… not so much. But finding the right setup feels like discovering a superpower.",
+      "author": "Toad"
+    },
+    {
+      "id": "6",
+      "title": "Learning Something New",
+      "body": "Picked up a new course today. The start is always exciting—full of curiosity and a bit of confusion. But that’s all part of the learning adventure.",
+      "author": "Bowser"
+    },
+    {
+      "id": "7",
+      "title": "A Walk in the Park",
+      "body": "Took a long walk through the park this afternoon. The weather was perfect, and the quiet moments between the trees made the whole day feel lighter.",
+      "author": "Daisy"
+    },
+    {
+      "id": "8",
+      "title": "Coding Late at Night",
+      "body": "There’s something magical about coding at night—the silence, the focus, the sense that the whole world is sleeping while you’re building something new.",
+      "author": "Wario"
+    },
+    {
+      "id": "9",
+      "title": "Weekend Projects",
+      "body": "This weekend I decided to start a tiny side project. It’s nothing big, just a simple app idea, but working on something purely for fun feels refreshing.",
+      "author": "Waluigi"
+    },
+    {
+      "id": "10",
+      "title": "Random Thoughts",
+      "body": "Sometimes the best ideas come out of nowhere—during a walk, a shower, or while staring at the ceiling doing nothing. Creativity is strange, but wonderful.",
+      "author": "Rosalina"
+    },
+    {
+      "id": "4a62",
+      "title": "123123123",
+      "body": "123123123",
+      "author": "yoshi"
+    },
+    {
+      "id": "732c",
+      "title": "123123123123123",
+      "body": "123123123123123",
+      "author": "yoshi"
+    }
+  ]
 }
